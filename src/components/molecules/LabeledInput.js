@@ -1,24 +1,3 @@
-// // components/molecules/LabeledInput.js
-// import React from 'react';
-// import Input from '../atoms/Input';
-
-// const LabeledInput = ({ label, type, placeholder, value, onChange }) => (
-//   <div className="mb-1">
-//     <label className="block text-gray-800 font-medium text-sm mb-1">
-//       {label}
-//     </label>
-//     <Input
-//       type={type}
-//       placeholder={placeholder}
-//       value={value}
-//       onChange={onChange}
-//       className="w-full px-4 py-2 mx-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400"
-//     />
-//   </div>
-// );
-
-// export default LabeledInput;
-// components/molecules/LabeledInput.js
 import React from 'react';
 import Input from '../atoms/Input';
 

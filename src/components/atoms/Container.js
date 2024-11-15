@@ -1,4 +1,4 @@
-// components/atoms/Container.js
+
 import React from 'react';
 
 const Container = ({ children, className }) => (

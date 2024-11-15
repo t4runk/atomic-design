@@ -1,4 +1,4 @@
-// components/pages/LoginPage.js
+
 import React from 'react';
 import LoginForm from '../organisms/LoginForm';
 import AuthTemplate from '../templates/AuthTemplate';

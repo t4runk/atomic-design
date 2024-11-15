@@ -1,4 +1,4 @@
-// components/atoms/Input.js
+
 import React from 'react';
 
 const Input = ({ type = 'text', placeholder, value, onChange, className }) => (
@@ -7,7 +7,6 @@ const Input = ({ type = 'text', placeholder, value, onChange, className }) => (
     placeholder={placeholder}
     value={value}
     onChange={onChange}
-    // required
     className={`py-2 px-4 border rounded w-full ${className}`}
   />
 );
