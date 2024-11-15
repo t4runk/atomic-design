@@ -37,5 +37,22 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.4.14"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t4runk/atomic-design.git"
+  },
+  "keywords": [
+    "atomic",
+    "design",
+    "react"
+  ],
+  "author": "tarun kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t4runk/atomic-design/issues"
+  },
+  "homepage": "https://github.com/t4runk/atomic-design#readme"
 }
